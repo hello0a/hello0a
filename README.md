@@ -1,11 +1,15 @@
+<div align="center">
 # 👋 안녕하세요, 백엔드 개발자 안영아입니다
-
 
 ## 📫 Contact
 
-- Email : aya70713@gmail.com
-- Notion: : [https://github.com/your-id](https://www.notion.so/alohasoft/306e397e531180e3916bd6328ebe168e)
+📧 **Email**  
+aya70713@gmail.com  
 
+📝 **Notion Portfolio**  
+[👉 바로가기](https://www.notion.so/alohasoft/306e397e531180e3916bd6328ebe168e)
+
+</div>
 ---
 
 ## 🛠 Tech Stack
@@ -33,21 +37,24 @@
 ### 1️⃣ 두루두룹 - MVC
 > 사용자 중심 모임 관리 플랫폼
 
+- ** 기간 **
+  2026.01.26 ~ 2026.02.12
+  
 - **기술 스택**  
   Spring Boot, MyBatis, Thymeleaf, AJAX
 
-- **핵심 기능**
-  - 마이페이지 (회원 정보 수정 / 탈퇴)
-  - 모임 관리 (승인 / 거부 / 조회)
+- **담당 기능**
+  - 회원 마이페이지 
   - 관리자 페이지
+  - 공지사항
 
 - **구현 특징**
   - MVC 구조 기반 설계 (Controller → Service → Mapper → DB)
-  - 동기/비동기 처리 분리  
-    → View 렌더링은 SSR 기반 동기 처리  
-    → 데이터 변경은 AJAX 기반 비동기 처리
   - Thymeleaf Fragment + AJAX를 활용한 부분 렌더링 구현
-  - CSRF 토큰 적용으로 데이터 변경 요청 보안 강화
+  - AI 검색 - OpenAI API (REST API + 비동기 통신), 자연어 모임 검색
+  - 결제 시스템 - 토스 페이먼츠 연동 프리미엄 구독 결제
+  - 모임 위치 - Kakao Maps API 지도 연동
+  - 인증 - Spring Security 세션 기반 인증
 
 👉 [프로젝트 보러가기](https://github.com/passtal/TeamProject1)
 
@@ -56,13 +63,15 @@
 ### 2️⃣ 망머샵 - Servlet/JSP
 > 1인 미용샵 예약 관리 시스템
 
+- ** 기간 ** -
+  2025.12.19 ~ 2025.12.31
+
 - **기술 스택**  
   Servlet, JSP, JDBC, MySQL
 
-- **핵심 기능**
-  - 회원가입 / 로그인 / 마이페이지
-  - 예약 등록 및 조회
-  - CS 문의 게시판
+- **담당 기능**
+  - 회원가입 및 로그인
+  - 회원 정보 수정
 
 - **구현 특징**
   - MVC 패턴 기반 구조 설계 (Servlet → Service → DAO → DB)
