@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 👋 안녕하세요, 백엔드 개발자 안영아입니다
 
 ## 📫 Contact
@@ -10,6 +11,7 @@ aya70713@gmail.com
 [👉 바로가기](https://www.notion.so/alohasoft/306e397e531180e3916bd6328ebe168e)
 
 </div>
+
 ---
 
 ## 🛠 Tech Stack
