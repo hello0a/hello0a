@@ -2,8 +2,6 @@
 
 <h1>👋 Hello, It's YoungA GitHub</h1>
 
-<br>
-
 <h3>📫 Contact</h3>
 
 📧 Email  
