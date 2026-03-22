@@ -73,9 +73,8 @@
 
 ---
 
-## 🧠 About Me
+## 📊 GitHub Stats
 
-- 사용자 흐름을 고려하여 기능을 개선하는 개발자  
-- MVC 구조 기반으로 웹 애플리케이션 흐름을 이해하고 구현하는 개발자  
-- 문제 해결 과정과 보안까지 고려하는 개발자
-  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hello0a&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello0a&layout=compact)
