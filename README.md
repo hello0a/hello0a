@@ -1,16 +1,18 @@
 <div align="center">
-  
-# 👋 안녕하세요, 백엔드 개발자 안영아입니다
+
+<h1>👋 안녕하세요, 백엔드 개발자 안영아입니다</h1>
 
 <br>
 
-## 📫 Contact
+<h3>📫 Contact</h3>
 
-📧 **Email**  
+📧 Email  
 aya70713@gmail.com  
 
-📝 **Notion Portfolio**  
-[👉 바로가기](https://www.notion.so/alohasoft/306e397e531180e3916bd6328ebe168e)
+<br>
+
+📝 Notion Portfolio  
+<a href="https://www.notion.so/alohasoft/306e397e531180e3916bd6328ebe168e">👉 바로가기</a>
 
 </div>
 
