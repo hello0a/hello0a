@@ -21,11 +21,9 @@
 
 ### Backend
 ![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
