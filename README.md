@@ -51,7 +51,18 @@
 > 사용자 중심 모임 관리 플랫폼
 
 - **기간** : 2026.01.26 ~ 2026.02.12  
-- **기술 스택** : Spring Boot, MyBatis, Thymeleaf, AJAX  
+- **기술 스택** <br>
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) <br>
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Toss Payments](https://img.shields.io/badge/Toss_Payments-0050FF?style=for-the-badge)
+![Kakao Maps API](https://img.shields.io/badge/Kakao_Maps_API-FFCD00?style=for-the-badge&logo=kakao&logoColor=black)
 
 - **담당 기능**
   - 회원 마이페이지
@@ -74,7 +85,7 @@
 > 1인 미용샵 예약 관리 시스템
 
 - **기간** : 2025.12.19 ~ 2025.12.31  
-- **기술 스택**
+- **기술 스택** <br>
 ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-%23E36002?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-000000?style=for-the-badge)
