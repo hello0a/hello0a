@@ -8,7 +8,7 @@
 aya70713@gmail.com  
 
 📝 Notion Portfolio  
-[👉 바로가기](https://www.notion.so/alohasoft/306e397e531180e3916bd6328ebe168e)
+[Notion](https://www.notion.so/alohasoft/306e397e531180e3916bd6328ebe168e)
 
 </div>
 
