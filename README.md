@@ -74,10 +74,11 @@
 > 1인 미용샵 예약 관리 시스템
 
 - **기간** : 2025.12.19 ~ 2025.12.31  
-- **기술 스택** : ![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge)
+- **기술 스택**
+![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **담당 기능**
   - 회원가입 및 로그인
