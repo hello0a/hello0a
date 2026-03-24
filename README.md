@@ -93,6 +93,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hello0a&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello0a&layout=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hello0a&layout=compact&theme=tokyonight)
 
 </div>
