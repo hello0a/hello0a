@@ -89,7 +89,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="right">
+<div align="left">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hello0a&show_icons=true&theme=dark)
 
