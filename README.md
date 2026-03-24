@@ -21,7 +21,7 @@
 
 ### Backend
 ![Java](https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
+![JSP](https://img.shields.io/badge/hono-%23E36002?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge)
 
