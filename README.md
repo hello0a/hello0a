@@ -12,10 +12,10 @@
 
 </div>
 
-## 🛠 Tech Stack
+## 📚 STACKS
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
 ![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
