@@ -42,7 +42,7 @@
 ## 🚀 Projects
 
 ### 1️⃣ 두루두룹 - MVC
-> 사용자 중심 모임 관리 플랫폼
+> 사용자 중심 모임 관리 플랫폼 (4인)
 
 - **기간** : 2026.01.26 ~ 2026.02.12  
 - **기술 스택** <br>
@@ -58,6 +58,11 @@
 ![Toss Payments](https://img.shields.io/badge/Toss_Payments-0050FF?style=flat)
 ![Kakao Maps API](https://img.shields.io/badge/Kakao_Maps_API-FFCD00?style=flat&logo=kakao&logoColor=black)
 
+- **핵심 기능**
+  - AI 프리미엄 모임 검색
+  - Spring Security 기반 로그인
+  - Toss Payments 결제
+    
 - **담당 기능**
   - 회원 마이페이지
   - 관리자 페이지
@@ -65,8 +70,8 @@
 
 - **구현 특징**
   - MVC 구조 기반 설계 (Controller → Service → Mapper → DB)
-  - Thymeleaf Fragment + AJAX 부분 렌더링
-  - AI 검색 (OpenAI API, REST + 비동기)
+  - Thymeleaf Fragment + AJAX 부분 렌더링.
+  - AI 검색 (OpenAI API 연동)
   - 결제 시스템 (Toss Payments 연동)
   - Kakao Maps API 지도 연동
   - Spring Security 세션 인증
@@ -86,6 +91,10 @@
 ![JSP](https://img.shields.io/badge/JSP-%23E36002?style=flat) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+- **핵심 기능**
+  - 쿠키/세션 로그인
+  - 예약 완료 및 조회
 
 - **담당 기능**
   - 회원가입 및 로그인
