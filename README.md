@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, It's YoungA GitHub
+# 👋 안영아 GitHub입니다.
 
 ### 📫 Contact
 
