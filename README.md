@@ -12,8 +12,6 @@ aya70713@gmail.com
 
 </div>
 
----
-
 ## 🛠 Tech Stack
 
 ### Backend
@@ -31,8 +29,6 @@ aya70713@gmail.com
 ### ETC
 - Git, GitHub
 - Apache Tomcat
-
----
 
 ## 🚀 Projects
 
@@ -57,8 +53,6 @@ aya70713@gmail.com
 
 👉 [프로젝트 보러가기](https://github.com/passtal/TeamProject1)
 
----
-
 ### 2️⃣ 망머샵 - Servlet/JSP
 > 1인 미용샵 예약 관리 시스템
 
@@ -75,8 +69,6 @@ aya70713@gmail.com
   - Session 기반 인증 처리
 
 👉 [프로젝트 보러가기](https://github.com/hello0a/MSA15_mini2)
-
----
 
 ## 📊 GitHub Stats
 
