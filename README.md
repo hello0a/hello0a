@@ -2,7 +2,7 @@
 
 # 👋 안영아 GitHub입니다.
 
-### 📫 Contact
+## 📫 Contact
 
 📧 Email  
 <aya70713@gmail.com>  
