@@ -41,7 +41,46 @@
 
 ## 🚀 Projects
 
-### 1️⃣ 두루두룹 - MVC
+### 1️⃣ 두루두룹 - REST API
+> 사용자 중심 모임 관리 플랫폼 리팩토링 (4인)
+
+- **기간** : 2026.03.10 ~ 2026.03.17  
+- **기술 스택** <br>
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) <br>
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Toss Payments](https://img.shields.io/badge/Toss_Payments-0050FF?style=flat)
+![Kakao Maps API](https://img.shields.io/badge/Kakao_Maps_API-FFCD00?style=flat&logo=kakao&logoColor=black)
+![OAuth2.0](https://img.shields.io/badge/OAuth2.0-FF6F00?style=flat&logo=oauth&logoColor=white)
+
+- **추가 기능**
+  - JWT 기반 로그인
+  - OAuth 2.0 소셜 로그인
+    
+- **담당 기능**
+  - 회원 마이페이지
+  - 관리자 페이지
+  - 공지사항
+  - 소셜 로그인 (kakao/google/naver)
+
+- **구현 특징**
+  - REST API 구조 기반 설계 (Controller → Service → Mapper → DB)
+  - React + AJAX 부분 렌더링
+  - JWT 인증 기반 로그인 구현
+  - Spring Security OAuth 2.0 기반 소셜 로그인
+
+👉 [프로젝트 보러가기](https://github.com/hello0a/Durudurub)
+
+<br>
+
+### 2️⃣ 두루두룹 - MVC
 > 사용자 중심 모임 관리 플랫폼 (4인)
 
 - **기간** : 2026.01.26 ~ 2026.02.12  
@@ -53,7 +92,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) <br>
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) <br>
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Toss Payments](https://img.shields.io/badge/Toss_Payments-0050FF?style=flat)
 ![Kakao Maps API](https://img.shields.io/badge/Kakao_Maps_API-FFCD00?style=flat&logo=kakao&logoColor=black)
@@ -80,7 +120,7 @@
 
 <br>
 
-### 2️⃣ 망머샵 - Servlet/JSP
+### 3️⃣ 망머샵 - Servlet/JSP
 > 1인 미용샵 예약 관리 시스템
 
 - **기간** : 2025.12.19 ~ 2025.12.31  
