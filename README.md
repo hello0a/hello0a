@@ -114,6 +114,7 @@
 <div align="left"> 
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hello0a&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hello0a&layout=compact&theme=tokyonight" width="48%" />
+<br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hello0a&layout=compact&theme=tokyonight" width="48%" />
 
 </div>
