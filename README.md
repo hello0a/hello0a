@@ -8,9 +8,10 @@
 <aya70713@gmail.com>  
 
 📝 Notion Portfolio  
-[Notion](https://hello0a.notion.site/332bff13bc7980b08df4c4db79339e53)
+[Notion](https://hello0a.notion.site/39bbff13bc7980bf98a7e060eefc3858?pvs=143)
 
 </div>
+
 <br>
 
 ## 📚 STACKS
@@ -23,11 +24,9 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-%23E36002?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,13 +34,60 @@
 ### ETC
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
 ## 🚀 Projects
 
-### 1️⃣ 두루두룹 - REST API
+### 1️⃣ StudyCast - AWS 배포
+
+> 실시간 화상 스터디와 개인 공부 관리 기능을 제공하는 온라인 캠 스터디 플랫폼 (2인) 
+
+- **기간**: 2026.05.26 ~ 2026.07.01
+- **기술 스택** <br>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-111111?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-STOMP-010101?style=flat)
+
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+- **핵심 기능**
+  - LiveKit 기반 실시간 카메라·마이크 연동
+  - WebSocket STOMP 기반 실시간 채팅
+  - Vercel 기반 프론트엔드 배포
+  - AWS EC2·Docker·GitHub Actions 기반 백엔드 자동 배포
+
+- **담당 기능**
+  - 기능 정의 구체화 및 주요 사용자 흐름 설계
+  - JWT 기반 인증·인가 및 일반 로그인, OAuth 2.0 소셜 로그인
+  - 메인 페이지·스터디방 생성 페이지·방문한 방 페이지
+  - LiveKit 기반 실시간 카메라·마이크 연동
+  - AWS EC2 백엔드 배포 환경 구축
+  - Docker·GitHub Actions 기반 자동 배포
+
+- **구현 특징**
+  - 일반 계정에 소셜 로그인을 추가하는 경우와 소셜 계정에 비밀번호를 추가하는 경우를 고려한 양방향 계정 통합
+  - Access Token과 Refresh Token의 역할 및 전달 경로 분리
+  - 이전 프로젝트 경험을 바탕으로 페이지, 컴포넌트, 타입, 데이터의 역할을 구분한 프론트엔드 구조 적용
+  - SSH 수동 배포에서 Docker·GitHub Actions 기반 자동 배포로 전환
+
+👉 [StudyCast 프로젝트 보러가기](https://github.com/hello0a/Study-cast)
+
+### 2️⃣ 두루두룹 - REST API
 > 사용자 중심 모임 관리 플랫폼 리팩토링 (4인)
 
 - **기간** : 2026.03.10 ~ 2026.03.17  
@@ -80,7 +126,7 @@
 
 <br>
 
-### 2️⃣ 두루두룹 - MVC
+### 3️⃣ 두루두룹 - MVC
 > 사용자 중심 모임 관리 플랫폼 (4인)
 
 - **기간** : 2026.01.26 ~ 2026.02.12  
@@ -117,35 +163,6 @@
   - Spring Security 세션 인증
 
 👉 [프로젝트 보러가기](https://github.com/passtal/TeamProject1)
-
-<br>
-
-### 3️⃣ 망머샵 - Servlet/JSP
-> 1인 미용샵 예약 관리 시스템
-
-- **기간** : 2025.12.19 ~ 2025.12.31  
-- **기술 스택** <br>
-![Servlet](https://img.shields.io/badge/Servlet-6DB33F?style=flat)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-000000?style=flat) <br>
-![JSP](https://img.shields.io/badge/JSP-%23E36002?style=flat) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
-- **핵심 기능**
-  - 쿠키/세션 로그인
-  - 예약 완료 및 조회
-
-- **담당 기능**
-  - 회원가입 및 로그인
-  - 회원 정보 수정
-
-- **구현 특징**
-  - MVC 패턴 기반 구조 설계 (Servlet → Service → DAO → DB)
-  - BCrypt 비밀번호 암호화
-  - Session 기반 인증 처리
-
-👉 [프로젝트 보러가기](https://github.com/hello0a/MSA15_mini2)
 
 <br>
 
