@@ -160,7 +160,7 @@
   - Kakao Maps API 지도 연동
   - Spring Security 세션 인증
 
-👉 [프로젝트 보러가기](https://github.com/passtal/TeamProject1)
+👉 [프로젝트 보러가기](https://github.com/hello0a/TeamProject1)
 
 <br>
 
