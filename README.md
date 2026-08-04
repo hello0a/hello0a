@@ -83,7 +83,7 @@
   - 이전 프로젝트 경험을 바탕으로 페이지, 컴포넌트, 타입, 데이터의 역할을 구분한 프론트엔드 구조 적용
   - SSH 수동 배포에서 Docker·GitHub Actions 기반 자동 배포로 전환
 
-👉 [StudyCast 프로젝트 보러가기](https://github.com/hello0a/Study-cast)
+👉 [프로젝트 보러가기](https://github.com/hello0a/Study-cast)
 
 ### 2️⃣ 두루두룹 - REST API
 > 사용자 중심 모임 관리 플랫폼 리팩토링 (4인)
