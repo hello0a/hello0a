@@ -52,12 +52,12 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-111111?style=flat)
-![WebSocket](https://img.shields.io/badge/WebSocket-STOMP-010101?style=flat)
+![WebSocket](https://img.shields.io/badge/WebSocket-STOMP-010101?style=flat) <br>
 
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
