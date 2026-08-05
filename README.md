@@ -8,7 +8,7 @@
 <aya70713@gmail.com>  
 
 📝 Notion Portfolio  
-[hello_0a](https://hello0a.notion.site/39bbff13bc7980bf98a7e060eefc3858)
+[hello_0a](https://hello0a.notion.site/39bbff13bc7980bf98a7e060eefc3858?pvs=143)
 
 </div>
 
